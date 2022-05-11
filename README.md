@@ -1,5 +1,9 @@
 # YOLOv5-recycling-object-detection
 
+**Files**
+You can access the files via the following link
+https://drive.google.com/drive/folders/1eJF76rr9bihArzo3Q8dB-GrNQ6knBHKm?usp=sharing
+
 **Fine-tuning**
 The Google Colab .ipynb file for training the model has been uploaded.
 Alternatively, you can access it through this link:
