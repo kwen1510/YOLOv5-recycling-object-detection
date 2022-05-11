@@ -17,6 +17,6 @@ https://www.youtube.com/watch?v=tFNJGim3FXw&t=3970s
 The files can be found under this repository
 
 **Running the object detection tool on your local machine**
-Download 'main.py'.
-Edit the model path
-Run 'main.py'
+1) Download 'main.py'.
+2) Edit the model path
+3) Run 'main.py'
