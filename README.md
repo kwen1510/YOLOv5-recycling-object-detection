@@ -2,7 +2,8 @@
 
 **Fine-tuning**
 The Google Colab .ipynb file for training the model has been uploaded.
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Q4SC47ZLuchwksmt7CZaUmdoI8BvB2Be?usp=sharing]
+Alternatively, you can access it through this link:
+https://colab.research.google.com/drive/1Q4SC47ZLuchwksmt7CZaUmdoI8BvB2Be?usp=sharing
 
 **Instruction to label data**
 Watch this YouTube video to see how the datasets can be labelled
